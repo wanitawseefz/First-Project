@@ -1,3 +1,7 @@
 ifrah raoof che gamich aaz rech
+<<<<<<< HEAD
 sa che aaz  mainish beht
 aaqib chune aaz aamut kehn
+=======
+sa che aaz  mainish beht
+>>>>>>> nb
